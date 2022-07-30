@@ -1,1 +1,21 @@
-# Deep-Learning-Lectures
+## ML - Ops
+
+![Screenshot from 2022-07-30 09-00-52](https://user-images.githubusercontent.com/109052326/181871618-5ef15919-c895-42e7-8b77-fcf81324ecae.png)
+![Screenshot from 2022-07-30 09-01-10](https://user-images.githubusercontent.com/109052326/181871622-5659728e-7755-4720-b956-44a49f7c4450.png)
+![Screenshot from 2022-07-30 09-01-42](https://user-images.githubusercontent.com/109052326/181871623-c968078f-689e-4035-b9ab-8867d19a2ebc.png)
+![Screenshot from 2022-07-30 09-02-25](https://user-images.githubusercontent.com/109052326/181871625-482e4beb-6450-4689-93e9-ed0b797c32ed.png)
+![Screenshot from 2022-07-30 09-02-41](https://user-images.githubusercontent.com/109052326/181871626-1ecdd804-059f-40e9-834e-a91860299f3d.png)
+![Screenshot from 2022-07-30 09-09-39](https://user-images.githubusercontent.com/109052326/181871627-617fe9fe-f89a-4dc5-9bde-6d44a313108b.png)
+![Screenshot from 2022-07-30 09-11-23](https://user-images.githubusercontent.com/109052326/181871629-991a8c1b-2ee4-469b-858e-d381345efc8f.png)
+![Screenshot from 2022-07-30 09-12-09](https://user-images.githubusercontent.com/109052326/181871631-10ad2536-60c5-450b-ae0d-7cdce1ef1922.png)
+![Screenshot from 2022-07-30 09-12-46](https://user-images.githubusercontent.com/109052326/181871633-7b8acb8c-389e-4f24-8c83-7f7b7558f244.png)
+![Screenshot from 2022-07-30 09-14-11](https://user-images.githubusercontent.com/109052326/181871635-7d25e802-e1c6-4468-8174-94d46eab00a4.png)
+![Screenshot from 2022-07-30 09-14-13](https://user-images.githubusercontent.com/109052326/181871636-8c0ccbf0-8953-47e7-b9f2-d59e405b6185.png)
+![Screenshot from 2022-07-30 09-14-57](https://user-images.githubusercontent.com/109052326/181871638-ceeed76c-b4a6-487f-b36c-12ae02937492.png)
+![Screenshot from 2022-07-30 09-15-52](https://user-images.githubusercontent.com/109052326/181871639-d84c3083-259f-424b-adb8-36223029131f.png)
+![Screenshot from 2022-07-30 09-16-53](https://user-images.githubusercontent.com/109052326/181871640-13bbd110-a9f4-4f16-b1c7-808f9a115d08.png)
+![Screenshot from 2022-07-30 09-18-07](https://user-images.githubusercontent.com/109052326/181871642-8c57d05e-cc5e-4b26-853c-d2e8ca064599.png)
+![Screenshot from 2022-07-30 09-18-19](https://user-images.githubusercontent.com/109052326/181871643-b322ac4f-8c7f-481e-938e-7e084126e4ef.png)
+![Screenshot from 2022-07-30 09-18-59](https://user-images.githubusercontent.com/109052326/181871644-17dda678-c133-4be8-a66a-489b8f539318.png)
+![Screenshot from 2022-07-30 09-19-02](https://user-images.githubusercontent.com/109052326/181871645-63583353-917f-46a6-8a1f-3042e9c3f06d.png)
+![Screenshot from 2022-07-30 09-19-12](https://user-images.githubusercontent.com/109052326/181871646-2cde0a73-49e6-494f-9f36-16f80e8ce268.png)
